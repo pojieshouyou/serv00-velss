@@ -1,0 +1,13 @@
+{
+  "name": "serv00-vless",
+  "version": "0.0.1",
+  "description": "Hello World",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http-proxy": "latest",
+    "ws": "latest"
+  }
+}
